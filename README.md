@@ -1,3 +1,3 @@
 # Solomia
 
-### Nice yo meet You here!
+### Nice to meet You here!
