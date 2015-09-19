@@ -1,0 +1,23 @@
+{
+  "name": "javascript_sample",
+  "version": "1.0.0",
+  "description": "### Nice to meet You here!",
+  "main": "web.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raspberri/javascript_sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raspberri/javascript_sample/issues"
+  },
+  "homepage": "https://github.com/raspberri/javascript_sample#readme"
+}
